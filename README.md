@@ -25,4 +25,4 @@ This repository contains implementations of various ciphers and cryptographic al
 -  *Vigenère Cipher*: A polyalphabetic cipher that uses a keyword to shift letters.
 - *Feistel Cipher*: A symmetric structure used in block ciphers.
 
-- Mini project demo: https://drive.google.com/file/d/1oILkyIlJKxYBJaRkKwIn1WZExPhjVjvy/view?usp=drive_link
+- Mini project demo: https://drive.google.com/file/d/1oILkyIlJKxYBJaRkKwIn1WZExPhjVjvy/view?usp=sharing
